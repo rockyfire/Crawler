@@ -1,0 +1,4 @@
+2017-11-03 15:58:39 [scrapy.utils.log] INFO: Scrapy 1.4.0 started (bot: login)
+2017-11-03 15:58:39 [scrapy.utils.log] INFO: Overridden settings: {'LOG_FILE': 'scrapy.log', 'SPIDER_MODULES': ['login.spiders'], 'NEWSPIDER_MODULE': 'login.spiders', 'DOWNLOAD_DELAY': 2, 'SPIDER_LOADER_WARN_ONLY': True, 'BOT_NAME': 'login'}
+2017-11-03 16:00:17 [scrapy.utils.log] INFO: Scrapy 1.4.0 started (bot: login)
+2017-11-03 16:00:17 [scrapy.utils.log] INFO: Overridden settings: {'BOT_NAME': 'login', 'FEED_FORMAT': 'json', 'SPIDER_MODULES': ['login.spiders'], 'DOWNLOAD_DELAY': 2, 'SPIDER_LOADER_WARN_ONLY': True, 'FEED_URI': 'xxx.json', 'NEWSPIDER_MODULE': 'login.spiders', 'LOG_FILE': 'scrapy.log'}
